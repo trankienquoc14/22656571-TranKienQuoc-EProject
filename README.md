@@ -85,9 +85,9 @@ Dự án này là một ứng dụng microservices bao gồm các dịch vụ sa
    - Phương thức: GET
    - URL: http://localhost:3003/products/api/products
    - Kết quả test postman
-![alt text](public/image/getProduct_DB.png)
+![alt text](public/image/getProduct.png)
    - Kiểm tra trên mongo db
-![alt text](public/image/addProduct_DB.png)
+![alt text](public/image/getProduct_DB.png)
 - **Lấy sản phẩm theo id**
 - Phương thức: GET
    - URL: http://localhost:3003/products/api/products/:id
